@@ -24,10 +24,11 @@ a:hover{
 }
 
 .logo{
+	background-color: white;
 	padding:30px;
 	border-radius: 100px;
 	border-style: solid;
-	border-color: gray;
+	border-color: gainsboro;
 	border-width: 1px;
 }
 
