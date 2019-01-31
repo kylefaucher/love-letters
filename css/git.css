@@ -83,8 +83,12 @@ p{
 	text-align: left;
 }
 
-.blue{
 
+hr{
+	
+	opacity: .2;
 }
 
-
+.bold{
+	font-weight: 600;
+}

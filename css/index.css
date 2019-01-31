@@ -2,6 +2,7 @@ body{
 	font-family: helvetica, sans-serif;
 	font-size: 1.5em;
 	text-align: center;
+	/*background-image: linear-gradient(to bottom right, blue,dodgerblue);*/
 }
 
 a{
@@ -24,12 +25,12 @@ a:hover{
 }
 
 .logo{
-	background-color: white;
 	padding:30px;
 	border-radius: 100px;
 	border-style: solid;
 	border-color: gainsboro;
 	border-width: 1px;
+	background-color: white;
 }
 
 h1{
@@ -83,8 +84,12 @@ p{
 	text-align: left;
 }
 
-.blue{
 
+hr{
+	
+	opacity: .2;
 }
 
-
+.bold{
+	font-weight: 600;
+}
